@@ -525,7 +525,7 @@ PrefabInstance:
     m_Modifications:
     - target: {fileID: 1245615408755772000, guid: 035c559b00768574ea46604a0ee8abee, type: 3}
       propertyPath: m_Name
-      value: Greeb Ball
+      value: Green Ball
       objectReference: {fileID: 0}
     - target: {fileID: 1245615408755772002, guid: 035c559b00768574ea46604a0ee8abee, type: 3}
       propertyPath: m_Materials.Array.data[0]
