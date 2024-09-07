@@ -137,7 +137,7 @@ PrefabInstance:
     - target: {fileID: 1245615408755772002, guid: 035c559b00768574ea46604a0ee8abee, type: 3}
       propertyPath: m_Materials.Array.data[0]
       value: 
-      objectReference: {fileID: 2100000, guid: da659d18fb149534fb5df05dc6f58029, type: 2}
+      objectReference: {fileID: 2100000, guid: a948cd62c1e84dd4cbaa99c4c7aef4ec, type: 2}
     - target: {fileID: 1245615408755772004, guid: 035c559b00768574ea46604a0ee8abee, type: 3}
       propertyPath: m_RootOrder
       value: 6
@@ -469,7 +469,7 @@ PrefabInstance:
     - target: {fileID: 1245615408755772002, guid: 035c559b00768574ea46604a0ee8abee, type: 3}
       propertyPath: m_Materials.Array.data[0]
       value: 
-      objectReference: {fileID: 2100000, guid: 691adf349897db742be82373600f6dc7, type: 2}
+      objectReference: {fileID: 2100000, guid: 235f7d5ce239509449a0212c45c9d5b1, type: 2}
     - target: {fileID: 1245615408755772004, guid: 035c559b00768574ea46604a0ee8abee, type: 3}
       propertyPath: m_RootOrder
       value: 4
@@ -530,7 +530,7 @@ PrefabInstance:
     - target: {fileID: 1245615408755772002, guid: 035c559b00768574ea46604a0ee8abee, type: 3}
       propertyPath: m_Materials.Array.data[0]
       value: 
-      objectReference: {fileID: 2100000, guid: 65b00530886bdf04094645a952573103, type: 2}
+      objectReference: {fileID: 2100000, guid: 7f222dd8ae5affc45963e9808c9b7110, type: 2}
     - target: {fileID: 1245615408755772004, guid: 035c559b00768574ea46604a0ee8abee, type: 3}
       propertyPath: m_RootOrder
       value: 5
@@ -591,7 +591,7 @@ PrefabInstance:
     - target: {fileID: 1245615408755772002, guid: 035c559b00768574ea46604a0ee8abee, type: 3}
       propertyPath: m_Materials.Array.data[0]
       value: 
-      objectReference: {fileID: 2100000, guid: 2f66b83d9089b4c4282d1783074ad7bf, type: 2}
+      objectReference: {fileID: 2100000, guid: 32ea467b9ea4b984782c0740fc4c6cd1, type: 2}
     - target: {fileID: 1245615408755772004, guid: 035c559b00768574ea46604a0ee8abee, type: 3}
       propertyPath: m_RootOrder
       value: 7
