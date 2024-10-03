@@ -1308,10 +1308,14 @@ PrefabInstance:
       propertyPath: m_LocalEulerAnglesHint.z
       value: 0
       objectReference: {fileID: 0}
+    - target: {fileID: -8435149241731497473, guid: 8bb7ca1cf21d7e24fb3c3630a0818720, type: 3}
+      propertyPath: m_Materials.Array.data[0]
+      value: 
+      objectReference: {fileID: 2100000, guid: 3e3fe7d08624f594bb8e96487091bd1a, type: 2}
     - target: {fileID: -4002239815115787907, guid: 8bb7ca1cf21d7e24fb3c3630a0818720, type: 3}
       propertyPath: m_Materials.Array.data[0]
       value: 
-      objectReference: {fileID: 2100000, guid: 8dd78a229d409a64ead844e715b29661, type: 2}
+      objectReference: {fileID: 2100000, guid: 169dad7bfc9db5c4c886543e7b9bd9f5, type: 2}
     - target: {fileID: 919132149155446097, guid: 8bb7ca1cf21d7e24fb3c3630a0818720, type: 3}
       propertyPath: m_Name
       value: Flag
