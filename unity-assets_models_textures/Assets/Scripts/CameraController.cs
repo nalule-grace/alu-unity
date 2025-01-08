@@ -25,10 +25,10 @@ public class CameraController : MonoBehaviour
         }
     }
 
-    void FollowPlayer()
-    {
-        transform.position = player.position + offset;
-    }
+   // void FollowPlayer()
+   // {
+   //     transform.position = player.position + offset;
+  //  }
 
     void RotateCamera()
     {
