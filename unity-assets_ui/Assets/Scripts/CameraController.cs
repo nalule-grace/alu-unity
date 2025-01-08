@@ -8,6 +8,8 @@ public class CameraController : MonoBehaviour
     public bool allowFreeLook = true; 
     public bool invertY = false;      
 
+    public bool isInverted;
+
     private float yaw = 0.0f; 
     private float pitch = 0.0f; 
 
