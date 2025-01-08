@@ -370,6 +370,36 @@ CanvasRenderer:
   m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 516683041}
   m_CullTransparentMesh: 1
+--- !u!1 &727401786
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 727401787}
+  m_Layer: 0
+  m_Name: attachment
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!4 &727401787
+Transform:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 727401786}
+  m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
+  m_LocalPosition: {x: 749.4, y: 268.65, z: 0}
+  m_LocalScale: {x: 1, y: 1, z: 1}
+  m_Children: []
+  m_Father: {fileID: 0}
+  m_RootOrder: 4
+  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
 --- !u!1 &738602299
 GameObject:
   m_ObjectHideFlags: 0
@@ -1197,7 +1227,7 @@ MonoBehaviour:
     m_PersistentCalls:
       m_Calls: []
   m_FontData:
-    m_Font: {fileID: 12800000, guid: ca8512cb56be7b34da59fc7d4efb4ee0, type: 3}
+    m_Font: {fileID: 12800000, guid: d3a250e3d463bbb4d98bf5753b5bb404, type: 3}
     m_FontSize: 60
     m_FontStyle: 0
     m_BestFit: 0
@@ -1308,6 +1338,10 @@ PrefabInstance:
   m_Modification:
     m_TransformParent: {fileID: 320292019}
     m_Modifications:
+    - target: {fileID: 4350323410368896526, guid: cf382422295822940a75fdf4f8173da7, type: 3}
+      propertyPath: m_FontData.m_Font
+      value: 
+      objectReference: {fileID: 12800000, guid: a0c42245f1a983d49aacc4291972614f, type: 3}
     - target: {fileID: 4350323410368896526, guid: cf382422295822940a75fdf4f8173da7, type: 3}
       propertyPath: m_FontData.m_VerticalOverflow
       value: 1
@@ -1502,6 +1536,10 @@ PrefabInstance:
       propertyPath: m_LocalEulerAnglesHint.z
       value: 0
       objectReference: {fileID: 0}
+    - target: {fileID: 4556259822912380730, guid: 788cc62e6639d4344b55c1eef7bb3bd0, type: 3}
+      propertyPath: m_FontData.m_Font
+      value: 
+      objectReference: {fileID: 12800000, guid: a0c42245f1a983d49aacc4291972614f, type: 3}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: 788cc62e6639d4344b55c1eef7bb3bd0, type: 3}
 --- !u!224 &8324857739245401915 stripped
