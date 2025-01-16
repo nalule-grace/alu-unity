@@ -100,7 +100,7 @@ AnimatorStateTransition:
   m_CorrespondingSourceObject: {fileID: 0}
   m_PrefabInstance: {fileID: 0}
   m_PrefabAsset: {fileID: 0}
-  m_Name: JumPToIdle
+  m_Name: JumpToIdle
   m_Conditions: []
   m_DstStateMachine: {fileID: 0}
   m_DstState: {fileID: -121751419427197226}
